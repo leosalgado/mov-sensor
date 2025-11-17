@@ -2,6 +2,14 @@
 
 Firmware em MicroPython para ESP32 feito para monitorar um interruptor (slide switch) e disparar um alarme via requisição HTTP quando o interruptor é acionado. Simulação diponível em: **[Wokwi](https://wokwi.com/projects/447136346765274113).**
 
+## Integrantes do Grupo
+
+- Leonardo Salgado
+
+- Felipe Otero
+
+- Pedro César
+
 ## Requisitos
 
 - ESP32
