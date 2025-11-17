@@ -17,7 +17,7 @@ Firmware em MicroPython para ESP32 feito para monitorar um interruptor (slide sw
 - Depois da configuração da IDE Thonny com o ESP32 conectado, selecione e rode o arquivo "main.py".
 
 > [!TIP]
-> Caso não possua maneira de simular o mecanismo de slide switch utlizar "botao.py"!
+> Caso não possua maneira de simular o mecanismo de slide switch, utlizar "botao.py"!
 
 ## Vantagens de Utilizar Interrupção em Relação a um Loop Infinito
 
