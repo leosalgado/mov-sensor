@@ -14,10 +14,10 @@ Firmware em MicroPython para ESP32 feito para monitorar um interruptor (slide sw
 
 - Troque o SSID e senha para o correspondente à rede desejada.
 
-- Depois da configuração da IDE Thonny com o ESP32 conectado, selecione e rode o arquivo "main.py".
+- Depois da configuração da IDE Thonny com o ESP32 conectado, selecione e rode o arquivo "switch.py".
 
 > [!TIP]
-> Caso não possua maneira de simular o mecanismo de slide switch, utlizar "botao.py"!
+> Caso não possua maneira de simular o mecanismo de slide switch, utlizar "button.py"!
 
 ## Vantagens de Utilizar Interrupção em Relação a um Loop Infinito
 
